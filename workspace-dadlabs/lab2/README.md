@@ -6,3 +6,4 @@ This directory contains source codes for Lab 01.
 
 ![image]
 https://github.com/faridhazeeq/dadrepository/blob/main/workspace-dadlabs/lab2/img/OutputRoundingApplication.PNG
+
