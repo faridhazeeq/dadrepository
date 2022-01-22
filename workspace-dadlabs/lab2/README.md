@@ -2,4 +2,4 @@
 
 This directory contains source codes for Lab 01.
 
-## Outpu from Exe 1
+## Output from Exe 1
