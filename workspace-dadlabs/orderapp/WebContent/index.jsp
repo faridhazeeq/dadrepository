@@ -15,5 +15,6 @@
 
 <br><br>
 <a href="demo/orderForm.html">Order Product</a> &nbsp; &nbsp;
+<a href="demo/orderRedirectForm.html">Order Product (Redirect)</a> &nbsp; &nbsp;
 </body>
 </html>
