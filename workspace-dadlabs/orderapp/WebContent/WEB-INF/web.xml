@@ -71,6 +71,6 @@
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>CheckOutRedirectServlet</servlet-name>
-		<url-pattern>/demo/checkOutRedirectServlet</url-pattern>
+		<url-pattern>/demo/CheckOutRedirectServlet</url-pattern>
 	</servlet-mapping>
 </web-app>
